@@ -66,13 +66,13 @@ export default function LandingPage() {
           tagIcon={Sparkles}
           products={[
             {
-              id: "1",              name: "Classic Leather Watch",              price: "$35",              variant: "Brown leather strap",              imageSrc: "http://img.b2bpic.net/free-photo/worker-equipment-manual-tool-surface_1303-374.jpg",              imageAlt: "Classic leather watch with brown strap"
+              id: "1",              name: "Classic Leather Watch",              price: "$35",              variant: "Brown leather strap",              imageSrc: "http://img.b2bpic.net/free-photo/worker-equipment-manual-tool-surface_1303-374.jpg?_wi=1",              imageAlt: "Classic leather watch with brown strap"
             },
             {
-              id: "2",              name: "Minimal Black Watch",              price: "$40",              variant: "Sleek black face",              imageSrc: "http://img.b2bpic.net/free-vector/clock-designs-collection_1333-7.jpg",              imageAlt: "Minimal black design watch"
+              id: "2",              name: "Minimal Black Watch",              price: "$40",              variant: "Sleek black face",              imageSrc: "http://img.b2bpic.net/free-vector/clock-designs-collection_1333-7.jpg?_wi=1",              imageAlt: "Minimal black design watch"
             },
             {
-              id: "3",              name: "Stainless Steel Watch",              price: "$50",              variant: "Metal bracelet",              imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-sexy-handsome-model-man-casual-cloth-sunglasses-street_158538-9739.jpg",              imageAlt: "Stainless steel watch with metal band"
+              id: "3",              name: "Stainless Steel Watch",              price: "$50",              variant: "Metal bracelet",              imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-sexy-handsome-model-man-casual-cloth-sunglasses-street_158538-9739.jpg?_wi=1",              imageAlt: "Stainless steel watch with metal band"
             },
             {
               id: "4",              name: "Business Style Watch",              price: "$45",              variant: "Professional black",              imageSrc: "http://img.b2bpic.net/free-photo/mid-section-businessman-holding-wristwatch-his-hand_23-2147941431.jpg",              imageAlt: "Business style professional watch"
@@ -99,7 +99,7 @@ export default function LandingPage() {
               id: "6",              name: "Elegant Silver Watch",              price: "$60",              variant: "Polished silver finish",              imageSrc: "http://img.b2bpic.net/free-photo/beautiful-girl-looking-watch_1163-3199.jpg",              imageAlt: "Elegant silver polished watch"
             },
             {
-              id: "7",              name: "Smart Fitness Watch",              price: "$75",              variant: "Tech-enabled tracking",              imageSrc: "http://img.b2bpic.net/free-photo/closeup-sportswoman-using-fitness-tracker-while-working-out-gym_637285-8546.jpg",              imageAlt: "Smart fitness watch with technology"
+              id: "7",              name: "Smart Fitness Watch",              price: "$75",              variant: "Tech-enabled tracking",              imageSrc: "http://img.b2bpic.net/free-photo/closeup-sportswoman-using-fitness-tracker-while-working-out-gym_637285-8546.jpg?_wi=1",              imageAlt: "Smart fitness watch with technology"
             },
             {
               id: "8",              name: "Premium Designer Watch",              price: "$90",              variant: "Exclusive designer collection",              imageSrc: "http://img.b2bpic.net/free-photo/close-up-seller-s-hand-gloves-shows-exclusive-men-s-watch-from-new-collection-luxury-jewelry-store_613910-20420.jpg",              imageAlt: "Premium designer exclusive watch"
@@ -120,16 +120,16 @@ export default function LandingPage() {
           tagIcon={Crown}
           products={[
             {
-              id: "9",              name: "Sport Chronograph Watch",              price: "$55",              variant: "Professional chronometer",              imageSrc: "http://img.b2bpic.net/free-photo/modern-black-watch-wrist-man-sitting-car_181624-58251.jpg",              imageAlt: "Sport chronograph professional watch"
+              id: "9",              name: "Sport Chronograph Watch",              price: "$55",              variant: "Professional chronometer",              imageSrc: "http://img.b2bpic.net/free-photo/modern-black-watch-wrist-man-sitting-car_181624-58251.jpg?_wi=1",              imageAlt: "Sport chronograph professional watch"
             },
             {
-              id: "10",              name: "Tactical Sport Watch",              price: "$65",              variant: "Military-grade rugged",              imageSrc: "http://img.b2bpic.net/free-photo/female-jogger-looking-smartwatch_23-2148762285.jpg",              imageAlt: "Tactical rugged sport watch"
+              id: "10",              name: "Tactical Sport Watch",              price: "$65",              variant: "Military-grade rugged",              imageSrc: "http://img.b2bpic.net/free-photo/female-jogger-looking-smartwatch_23-2148762285.jpg?_wi=1",              imageAlt: "Tactical rugged sport watch"
             },
             {
-              id: "11",              name: "Classic Leather Watch",              price: "$35",              variant: "Vintage brown leather",              imageSrc: "http://img.b2bpic.net/free-photo/worker-equipment-manual-tool-surface_1303-374.jpg",              imageAlt: "Classic vintage leather watch"
+              id: "11",              name: "Classic Leather Watch",              price: "$35",              variant: "Vintage brown leather",              imageSrc: "http://img.b2bpic.net/free-photo/worker-equipment-manual-tool-surface_1303-374.jpg?_wi=2",              imageAlt: "Classic vintage leather watch"
             },
             {
-              id: "12",              name: "Minimal Black Watch",              price: "$40",              variant: "Ultra-thin minimalist",              imageSrc: "http://img.b2bpic.net/free-vector/clock-designs-collection_1333-7.jpg",              imageAlt: "Minimal ultra-thin black watch"
+              id: "12",              name: "Minimal Black Watch",              price: "$40",              variant: "Ultra-thin minimalist",              imageSrc: "http://img.b2bpic.net/free-vector/clock-designs-collection_1333-7.jpg?_wi=2",              imageAlt: "Minimal ultra-thin black watch"
             }
           ]}
           gridVariant="four-items-2x2-equal-grid"
@@ -147,16 +147,16 @@ export default function LandingPage() {
           tagIcon={Zap}
           products={[
             {
-              id: "13",              name: "Sport Chronograph Watch",              price: "$55",              variant: "Race-ready timing",              imageSrc: "http://img.b2bpic.net/free-photo/modern-black-watch-wrist-man-sitting-car_181624-58251.jpg",              imageAlt: "Sport chronograph race watch"
+              id: "13",              name: "Sport Chronograph Watch",              price: "$55",              variant: "Race-ready timing",              imageSrc: "http://img.b2bpic.net/free-photo/modern-black-watch-wrist-man-sitting-car_181624-58251.jpg?_wi=2",              imageAlt: "Sport chronograph race watch"
             },
             {
-              id: "14",              name: "Tactical Sport Watch",              price: "$65",              variant: "Adventure-ready tough",              imageSrc: "http://img.b2bpic.net/free-photo/female-jogger-looking-smartwatch_23-2148762285.jpg",              imageAlt: "Tactical adventure sport watch"
+              id: "14",              name: "Tactical Sport Watch",              price: "$65",              variant: "Adventure-ready tough",              imageSrc: "http://img.b2bpic.net/free-photo/female-jogger-looking-smartwatch_23-2148762285.jpg?_wi=2",              imageAlt: "Tactical adventure sport watch"
             },
             {
-              id: "15",              name: "Smart Fitness Watch",              price: "$75",              variant: "Training intelligence",              imageSrc: "http://img.b2bpic.net/free-photo/closeup-sportswoman-using-fitness-tracker-while-working-out-gym_637285-8546.jpg",              imageAlt: "Smart fitness training watch"
+              id: "15",              name: "Smart Fitness Watch",              price: "$75",              variant: "Training intelligence",              imageSrc: "http://img.b2bpic.net/free-photo/closeup-sportswoman-using-fitness-tracker-while-working-out-gym_637285-8546.jpg?_wi=2",              imageAlt: "Smart fitness training watch"
             },
             {
-              id: "16",              name: "Stainless Steel Watch",              price: "$50",              variant: "Durable lightweight",              imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-sexy-handsome-model-man-casual-cloth-sunglasses-street_158538-9739.jpg",              imageAlt: "Stainless steel durable sport watch"
+              id: "16",              name: "Stainless Steel Watch",              price: "$50",              variant: "Durable lightweight",              imageSrc: "http://img.b2bpic.net/free-photo/fashion-portrait-young-sexy-handsome-model-man-casual-cloth-sunglasses-street_158538-9739.jpg?_wi=2",              imageAlt: "Stainless steel durable sport watch"
             }
           ]}
           gridVariant="three-columns-all-equal-width"
